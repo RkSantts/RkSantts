@@ -2,6 +2,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RkSantts&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RKSantts&&layout=compact&theme=transparent)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lle446i4wdj5ymybfbz45eumee&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=dd0808&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 <div style="display: incline_block"><br>
 <img align="center" alt="Rick-java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img align="center" alt="Rick-HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
