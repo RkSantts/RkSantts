@@ -1,4 +1,4 @@
-## Bem vindo ao meu GitHub, sou Rick Santos estudante de Desenvolvimeto de Sistemas!👋
+## Bem vindo ao meu GitHub, sou Rick Santos estudante de Desenvolvimeto de Sistemas!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RkSantts&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RKSantts&&layout=compact&theme=transparent)
 
