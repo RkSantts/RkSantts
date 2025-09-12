@@ -23,7 +23,7 @@ Estou formando em Desenvolvimento de Sistemas pelo SENAI, com forte base em lóg
 ##
 
 <div align="center">
-  <a href="[https://www.instagram.com/riickssantos/](https://www.instagram.com/riickssantos?igsh=dTI5aTNxZ3RuZnRx&utm_source=qr)" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.instagram.com/riickssantos/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <a href="https://www.linkedin.com/in/rick-santos-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a href="mailto:rs6545570@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
