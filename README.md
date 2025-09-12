@@ -2,12 +2,13 @@
   
 ##  Olá, sou Rick Santos, bem vindo ao meu GitHub!
 </div>
+
+Estou formando em Desenvolvimento de Sistemas pelo SENAI, com forte base em lógica de programação, desenvolvimento web e mobile, banco de dados e boas práticas de codificação. Tenho paixão por tecnologia e estou sempre buscando aprender mais, seja por meio de cursos, projetos pessoais ou desafios práticos.
 <div align="center" >
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RkSantts&show_icons=true&theme=transparent"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKSantts&layout=compact&theme=transparent"/>
 </div>
-
 
 <div style="display: incline-block" align="center"><br>
 <img height="50" align="center" alt="Rick-java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
