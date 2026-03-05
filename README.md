@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   
 ##  Olá, sou Rick Santos, bem vindo ao meu GitHub!
 </div>
