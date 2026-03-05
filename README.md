@@ -11,7 +11,7 @@
 <div >
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RkSantts&show_icons=true&theme=transparent"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKSantts&layout=compact&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RkSantts&layout=compact&theme=transparent"/>
 </div>
 
 <div style="display: incline-block""><br>
