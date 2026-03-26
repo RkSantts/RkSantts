@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+Formação+%7C+SENAI;Web+%7C+Mobile+%7C+Backend;Apaixonado+por+Tecnologia+%26+Inovação;Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack+%7C+SENAI;Web+%7C+Mobile+%7C+Backend;Apaixonado+por+Tecnologia+%26+Inovação;Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -28,7 +28,7 @@ Tenho paixão por tecnologia e estou sempre em busca de crescimento — seja por
 ```typescript
 const rick = {
   formação:    "Desenvolvimento de Sistemas — SENAI",
-  foco:        ["Web", "Mobile", "Backend"],
+  foco:        ["Fullstack", "Web", "Mobile", "Backend"],
   status:      "🚀 Aberto a oportunidades",
   filosofia:   "Código limpo. Soluções reais.",
 };
@@ -54,6 +54,7 @@ const rick = {
 
 ### Web & Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Ferramentas & Banco de Dados
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -103,5 +104,5 @@ const rick = {
 </div>
 
 <div align="center">
-  <sub>⚡ <i>"Primeiro, resolva o problema. Depois, escreva o código."</i></sub>
+  <sub><i>"Primeiro, resolva o problema. Depois, escreva o código."</i></sub>
 </div>
