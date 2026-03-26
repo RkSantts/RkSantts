@@ -100,5 +100,5 @@ const rick = {
 </div>
 
 <div align="center">
-  <sub>⚡ <i>"Primeiro, resolva o problema. Depois, escreva o código."</i></sub>
+  <sub><i>"Primeiro, resolva o problema. Depois, escreva o código."</i></sub>
 </div>
