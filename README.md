@@ -115,7 +115,7 @@ faturamento mensal. Reduziu drasticamente erros de inventário e otimizou a roti
 
 <div align="center">
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-00F2FE?style=for-the-badge&logo=vercel&logoColor=black)](https://rksantts.github.io)
+[![Portfólio](https://img.shields.io/badge/Portfólio-00F2FE?style=for-the-badge&logo=vercel&logoColor=black)](https://rksantts.github.io/Portifolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rick%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rick-santos-/)
 [![Instagram](https://img.shields.io/badge/Instagram-%40riickssantos-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/riickssantos/)
 [![Gmail](https://img.shields.io/badge/Gmail-paulo.rick.santosa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=paulo.rick.santosa@gmail.com&su=Contato%20via%20GitHub&body=Olá%20Paulo,%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato.)
